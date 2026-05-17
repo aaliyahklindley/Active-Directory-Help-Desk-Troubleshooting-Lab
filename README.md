@@ -63,7 +63,9 @@ User must change password at next logon
 ## Screenshot — Password Reset
 
 <p align="center">
-  INSERT SCREENSHOT HERE
+ <img width="1115" height="834" alt="Screenshot 2026-05-16 182741" src="https://github.com/user-attachments/assets/60e19da6-6bf7-4d27-9716-1379d78f714f" />
+<img width="1111" height="837" alt="Screenshot 2026-05-16 182720" src="https://github.com/user-attachments/assets/84e9ac00-9855-4cb5-ac82-46dceaf4dc3c" />
+
 </p>
 
 ---
@@ -103,9 +105,8 @@ Apply
 ---
 
 ## Screenshot — Unlocking Account
-
 <p align="center">
-  INSERT SCREENSHOT HERE
+ <img width="1109" height="837" alt="Screenshot 2026-05-16 182912" src="https://github.com/user-attachments/assets/f85cfd55-4871-4fed-9024-9732e304f2fb" />
 </p>
 
 ---
@@ -142,7 +143,9 @@ Apply
 ## Screenshot — Disabled Account
 
 <p align="center">
-  INSERT SCREENSHOT HERE
+  <img width="1113" height="834" alt="Screenshot 2026-05-16 183118" src="https://github.com/user-attachments/assets/29b8eafd-d1f8-44b2-9f23-6a152bd72c36" />
+<img width="1114" height="836" alt="Screenshot 2026-05-16 183305" src="https://github.com/user-attachments/assets/91dda626-6de3-46d9-9c69-356313656469" />
+
 </p>
 
 ---
@@ -213,7 +216,7 @@ Apply
 ## Screenshot — Account Expiration Settings
 
 <p align="center">
-  INSERT SCREENSHOT HERE
+<img width="1114" height="838" alt="Screenshot 2026-05-16 183414" src="https://github.com/user-attachments/assets/a8b59844-6e01-4d67-b647-3a85c6c1b26e" />
 </p>
 
 ---
